@@ -4,7 +4,8 @@ Fusion Swap is designed to revolutionize the liquidity dynamics within the Cosmo
 ## Problem Statement
 In the rapidly evolving landscape of decentralized finance (DeFi), liquidity fragmentation across different blockchain ecosystems remains a critical challenge. The Cosmos ecosystem, with its vision of blockchain interoperability, is often hindered by liquidity inefficiencies and lacks a unifying protocol to optimize asset exchange. This fragmentation results in suboptimal trading experiences, high slippage, and constrained capital utilization. As DeFi projects and users grow, the need for seamless liquidity aggregation that bridges various ecosystems becomes increasingly crucial. Fusion Swap recognizes this gap, specifically within the Cosmos ecosystem, and seeks to address the barriers that prevent a unified liquidity experience. Current protocols often lack integration capabilities and flexibility, hindering the full realization of DeFi’s potential. There is a pressing need for a platform that not only aggregates liquidity but also provides a flexible, user-friendly, and scalable solution that can adapt to the growing demands of decentralized exchanges. Fusion Swap aims to change the narrative by leveraging the innovative Euclid Protocol to enhance liquidity provision and enable a more interconnected DeFi ecosystem.
 
-##
+## TYechnologies used
+Next.js front-end framework, Typescript, Node, Euclid APi, vercel, Kelpr Wallet
 
 ## Getting Started
 
