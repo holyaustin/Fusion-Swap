@@ -249,7 +249,7 @@ export default function Swap() {
             {chain ? (
                 <PromiseButton disabled={isPending || !fromToken || !toToken || microFromValue === "0" || !route} onClick={handleSwap} className="w-full"> Swap</PromiseButton>
             ) : (
-                <Button className="w-full" onClick={() => onModalStateChange(true)}>Connect Chain</Button>
+                <Button className="w-full text-white text-lg font-extrabold" onClick={() => onModalStateChange(true)}>Connect Chain</Button>
             )}
         </div>
     );
